@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-Awesome now that osTicket is installed successfully on our virtual machine we will nonw set system administrative tasks within our osTicket. Once were logged in as an admin, to configure the roles within the site well go to "admin panel" > agents > roles
+Awesome now that osTicket is installed successfully on our virtual machine we will now set system administrative tasks within our osTicket. Once were logged in as an admin, to configure the roles within the site well go to "admin panel" > agents > roles
 
 ![Screenshot 2025-04-25 042746](https://github.com/user-attachments/assets/ce12bdab-bdb1-4ad4-861b-d1827b645818)
 
